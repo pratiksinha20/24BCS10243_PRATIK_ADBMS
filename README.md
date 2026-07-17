@@ -154,7 +154,9 @@ Well done, it's correct!
 
 ## Output Screenshot
 
-![Experiment 1 Output](image.png)
+
+<img width="1892" height="897" alt="image" src="https://github.com/user-attachments/assets/2b9549e7-5454-43ee-8b7e-ba5bc2bf2610" />
+
 
 ## Image Explanation
 
