@@ -12,7 +12,7 @@ INSERT INTO employees (emp_id, emp_name, emp_salary, emp_city) VALUES
 (104, 'Ananya Iyer', 110000.00, 'Bangalore'),
 (105, 'Vikram Singh', 55000.00, 'Delhi'),
 (106, 'Sneha Reddy', 105000.00, 'Bangalore'),
-(107, 'Rohan Das', 72000.00, 'Kolkata'); 
+(107, 'Rohan Das', 72000.00, 'Kolkata');
 
 
 
